@@ -1,4 +1,4 @@
-### Olá! Eu sou Giovani Clarindo e estee é meu perfil!
+### Olá! Eu sou Giovani Clarindo e este é meu perfil!
 
 <div align="center">
   <a href="https://github.com/giovaniclarindo">
