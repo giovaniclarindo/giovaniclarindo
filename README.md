@@ -1,6 +1,6 @@
 ### Olá! Eu sou Giovani Clarindo e estee é meu perfil!
 
-<div align="center">
+<div>
   <a href="https://github.com/giovaniclarindo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaniclarindo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniclarindo&layout=compact&langs_count=7&theme=tokyonight"/>
